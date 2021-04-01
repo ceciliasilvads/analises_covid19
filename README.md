@@ -6,13 +6,12 @@ Pode ser observado o uso de algumas técnicas e funcionalidades de bibliotecas d
 
 Conta com análises exploratórias, manipulação de dataframes e séries, plotagem de gráficos, entre outros. 
 
-# **Ferramentas utilizadas:**
+# Ferramentas utilizadas:
 
 Pandas;
 Matplotlib;
-Seaborn.
 
-# **Minhas redes:**
+# Minhas redes:
 
 **LinkedIn: https://www.linkedin.com/in/cecília**
 
