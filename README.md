@@ -9,7 +9,7 @@ Conta com análises exploratórias, manipulação de dataframes e séries, plota
 # Ferramentas utilizadas:
 
 Pandas;
-Matplotlib;
+Matplotlib.
 
 # Minhas redes:
 
