@@ -26,6 +26,6 @@ Todas as fontes de dados estão citadas em cada notebook. Foram utilizadas fonte
 
 ### Ferramentas utilizadas:
 
-- Pandas;
-- Matplotlib;
-- Bar chart race.
+- **[Pandas]();**
+- **[Matplotlib]();**
+- **[Bar Chart Race](https://www.dexplo.org/bar_chart_race/).**
