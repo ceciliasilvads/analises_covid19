@@ -12,7 +12,7 @@ Nesse repositório estão presentes jupyter notebooks com análises de dados da 
 
 - **covid_br:**
 Se refere as análises dos dados do Brasil, suas regiões e estados.
-- **covid_ma:**
+- **[covid_ma](https://github.com/cecellhax/analises_covid19/blob/main/covid_ma.ipynb) :**
 São análises de dados específicos do estado do Maranhão e de algumas de suas principais cidades. 
 
 ### Objetivos
