@@ -9,9 +9,10 @@ Conta com análises exploratórias, manipulação de dataframes e séries, plota
 ### Conteúdo das análises
 
 Nesse repositório estão presentes jupyter notebooks com análises de dados da covid-19, são eles:
-**- covid_br:**
-Se refere as análises dos dados do Brasil, suas regiões e estados. 
-**- covid_ma:**
+
+- **covid_br:**
+Se refere as análises dos dados do Brasil, suas regiões e estados.
+- **covid_ma:**
 São análises de dados específicos do estado do Maranhão e de algumas de suas principais cidades. 
 
 ### Objetivos
