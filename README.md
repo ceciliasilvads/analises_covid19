@@ -10,7 +10,7 @@ Conta com análises exploratórias, manipulação de dataframes e séries, plota
 
 Nesse repositório estão presentes jupyter notebooks com análises de dados da covid-19, são eles:
 
-- **covid_br:**
+- **[covid_br](https://github.com/cecellhax/analises_covid19/blob/main/covid_br.ipynb) :**
 Se refere as análises dos dados do Brasil, suas regiões e estados.
 - **[covid_ma](https://github.com/cecellhax/analises_covid19/blob/main/covid_ma.ipynb) :**
 São análises de dados específicos do estado do Maranhão e de algumas de suas principais cidades. 
