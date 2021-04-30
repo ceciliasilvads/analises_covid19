@@ -41,7 +41,7 @@ Foram utilizadas fontes diversas para melhor uso em cada análise.
 
 `pip install matplotlib`
 
-`pio install bar_chart_race`
+`pip install bar_chart_race`
 
 - *Pode ser observado o uso de algumas técnicas e funcionalidades de bibliotecas de manipulação e visualização de dados.*
 
