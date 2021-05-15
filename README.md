@@ -20,7 +20,7 @@ Se refere as análises dos dados do Brasil, suas regiões e estados. Foram gerad
 São análises de dados específicos do estado do Maranhão e de algumas de suas principais cidades.
 - **[covid19_casos_comparacao.ipynb](https://github.com/cecellhax/analises_covid19/blob/main/covid19_casos_comparacao.ipynb) :**
 Análise e comparação do acumulo de casos confirmados da covid-19 em alguns países.
-- **[covis19_mortes_comparação.ipynb](https://github.com/cecellhax/analises_covid19/blob/main/covis19_mortes_compara%C3%A7%C3%A3o.ipynb) :**
+- **[covis19_mortes_comparacao.ipynb](https://github.com/cecellhax/analises_covid19/blob/main/covis19_mortes_comparacao.ipynb) :**
 Análise e comparação do acumulo de óbitos causados pela covid-19 em alguns países.
 
  
