@@ -1,4 +1,4 @@
-# analises_covid19
+# Análise de dados da covid-19
 
 
 ![IMAGEM](https://github.com/cecellhax/analises_covid19/blob/main/capa_covid.png)
@@ -8,7 +8,6 @@ O objetivo principal deste repositório é criar visualizações dos dados decor
 - Esclarecer informações sobre a pandemia;
 - Simplificar o entendimento dos dados da covid-19 e suas consequências;
 - Trazer reflexões baseadas em dados sobre a situação atual do Brasil e do mundo.
-
 
 ## Documentos criados
 
